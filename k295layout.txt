@@ -1,0 +1,274 @@
+	1	2	3	4	5	6	7	19	20	21	22	23
+8	n0	f	Unknown(KanaMode)	,	CtrlR		A			J	.	PgUp
+9	pause	m	+	D		AltR	Home			↓	n9	F11
+10	s	Num	5	/		MediaPlayPause	L	ShiftR	BrowserHome	F10	[	/
+11	u	F9	*	←		AudioVolumeUp	7	ShiftL	LaunchApplication2	Alt+Shift	F6	B
+12	prscr	→	Backspace	-	CtrlL	AudioVolumeDown	O		блок?	5	Z	6
+13		\	'	P	IntlBackslash	h	]	C	n	1	`	R
+14	n4	\	Unknown(IntlRo)	K	3	q	=	2	f4	Tab	X	F3
+15	PgDn	8	Enter	-	F5	Menu	n8	n7		G	Y	V
+16	unknown IntlYen	n.	W	Ent	n1	6		F12	e	I	F8	↑
+17	ScrLk	Ins	2	F7	Unknown(Convert)	AudioVolumeMute	0	Unknown(NonConvert)	WinL	4	T	F2
+18	9	n3	End	;		AltL	Del		LaunchMail	0	Space	Esc
+
+СПИСКИ КЛАВИШ ПО МАТРИЦЕ
+	Адрес указан как R<строка>C<столбец>. Если одно обозначение встречается в нескольких ячейках, указаны все адреса.
+
+	БУКВЫ A-Z
+	A        -R8  -C7
+	B        -R11 -C23
+	C        -R13 -C19
+	D        -R9  -C4
+	E        -R16 -C21
+	F        -R8  -C2
+	G        -R15 -C21
+	H        -R13 -C6
+	I        -R16 -C22
+	J        -R8  -C21
+	K        -R14 -C4
+	L        -R10 -C7
+	M        -R9  -C2
+	N        -R13 -C20
+	O        -R12 -C7
+	P        -R13 -C4
+	Q        -R14 -C6
+	R        -R13 -C23
+	S        -R10 -C1
+	T        -R17 -C22
+	U        -R11 -C1
+	V        -R15 -C23
+	W        -R16 -C3
+	X        -R14 -C22
+	Y        -R15 -C22
+	Z        -R12 -C22
+
+	ЦИФРЫ ОСНОВНОГО РЯДА
+	0        -R17 -C7
+	1        -R13 -C21
+	2        -R14 -C19
+	3        -R14 -C5
+	4        -R17 -C21
+	5        -R12 -C21
+	6        -R12 -C23
+	7        -R11 -C7
+	8        -R15 -C2
+	9        -R18 -C1
+
+	ЦИФРЫ NUMPAD
+	N0       -R8  -C1
+	N1       -R16 -C5
+	N2       -R17 -C3
+	N3       -R18 -C2
+	N4       -R14 -C1
+	N5       -R10 -C3
+	N6       -R16 -C6
+	N7       -R15 -C19
+	N8       -R15 -C7
+	N9       -R9  -C22
+	N. (Decimal)   -R16 -C2
+
+	ФУНКЦИОНАЛЬНЫЕ КЛАВИШИ
+	F1       -R18 -C21
+	F2       -R17 -C23
+	F3       -R14 -C23
+	F4       -R14 -C20
+	F5       -R15 -C5
+	F6       -R11 -C22
+	F7       -R17 -C4
+	F8       -R16 -C23
+	F9       -R11 -C2
+	F10      -R10 -C21
+	F11      -R9  -C23
+	F12      -R16 -C20
+
+	МОДИФИКАТОРЫ
+	CtrlL    -R12 -C5
+	CtrlR    -R8  -C5
+	ShiftL   -R11 -C19
+	ShiftR   -R10 -C19
+	AltL     -R18 -C6
+	AltR     -R9  -C6
+	WinL     -R17 -C20
+	WinR   отсутствует
+	CapsLock   -R11 -C21
+
+	СТРЕЛКИ
+	Up (↑)   -R16 -C23
+	Down (↓)                      -R9  -C21
+	Left (←)                      -R11 -C4
+	Right (→)                     -R12 -C2
+
+	НАВИГАЦИЯ И РЕДАКТИРОВАНИЕ
+	Home      -R9  -C7
+	End       -R18 -C3
+	PgUp      -R8  -C23
+	PgDn      -R15 -C1
+	Ins       -R17 -C2
+	Del       -R18 -C7
+	Backspace -R12 -C3
+	Tab       -R14 -C21
+	Enter     -R15 -C3
+	EntExt    -R16 -C4
+	Space     -R18 -C22
+	Esc       -R18 -C23
+	Menu      -R15 -C6
+
+	СИСТЕМНЫЕ И БЛОКИРОВКИ
+	Pause     -R9  -C1
+	PrScr     -R12 -C1
+	ScrLk     -R17 -C1
+	Num       -R10 -C2
+
+	ЗНАКИ И КЛАВИШИ СИМВОЛОВ
+	,         -R8  -C4
+	.         -R8  -C22
+	;         -R18 -C4 Oem1
+	'         -R13 -C3
+	[         -R10 -C22
+	]         -R13 -C7
+	\         -R13 -C2 Oem5,  -R14 -C2 Oem5
+	`         -R13 -C22
+	=         -R14 -C7
+	+         -R9  -C3
+	*         -R11 -C3
+	-         -R12 -C4 OemMinus
+	-         -R15-C4 Subtract
+	/         -R10 -C4 Divide
+	/         -R10 -C23 OemQuestion
+
+	ИНТЕРНАЦИОНАЛЬНЫЕ И ЯЗЫКОВЫЕ
+	KanaMode (Unknown)   -R8  -C3 LButton, OemClear | VK: 255 | Scan: 112
+	IntlBackslash        -R13 -C5 NumPad1      | VK: 97  | Scan: 79
+	IntlRo (Unknown)     -R14 -C3 LButton, Oemtilde | VK: 193 | Scan: 115
+	IntlYen (unknown)    -R16 -C1 LButton, OemClear | VK: 255 | Scan: 125
+	Convert (Unknown)    -R17 -C5 LButton, OemClear | VK: 255 | Scan: 121
+	NonConvert (Unknown) -R17 -C19 Tab, OemBackslash | VK: 235 | Scan: 123
+
+	МУЛЬТИМЕДИА И ЗАПУСК ПРИЛОЖЕНИЙ
+	MediaPlayPause     -R10 -C6
+	AudioVolumeUp      -R11 -C6
+	AudioVolumeDown    -R12 -C6
+	AudioVolumeMute    -R17 -C6
+	BrowserHome        -R10 -C20
+	LaunchApplication2 -R11 -C20
+	LaunchMail         -R18 -C20
+	ВыклПК             -R12 -C20
+
++  892 ms | Key: MediaPlayPause | VK: 179 | Scan: 0   | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: INJECTED | Held: 156 ms
++  530 ms | Key: VolumeMute   | VK: 173 | Scan: 0   | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: INJECTED | Held: 146 ms
++  484 ms | Key: VolumeDown   | VK: 174 | Scan: 0   | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: INJECTED | Held: 143 ms
++ 1086 ms | Key: VolumeUp     | VK: 175 | Scan: 0   | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: INJECTED | Held: 116 ms
++ 1328 ms | Key: BrowserHome  | VK: 172 | Scan: 0   | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: INJECTED | Held: 134 ms
++ 1272 ms | Key: LaunchMail   | VK: 180 | Scan: 0   | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: INJECTED | Held: 124 ms
+ВыклПК
++ 2219 ms | Key: LaunchApplication2 | VK: 183 | Scan: 0   | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: INJECTED | Held: 138 ms
+
++ 2168 ms | Key: Escape       | VK: 27  | Scan: 1   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  928 ms | Key: F1           | VK: 112 | Scan: 59  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  600 ms | Key: F2           | VK: 113 | Scan: 60  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 120 ms
++  464 ms | Key: F3           | VK: 114 | Scan: 61  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 120 ms
++  400 ms | Key: F4           | VK: 115 | Scan: 62  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  520 ms | Key: F5           | VK: 116 | Scan: 63  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  424 ms | Key: F6           | VK: 117 | Scan: 64  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++  392 ms | Key: F7           | VK: 118 | Scan: 65  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 120 ms
++ 1008 ms | Key: F8           | VK: 119 | Scan: 66  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 120 ms
++  544 ms | Key: F9           | VK: 120 | Scan: 67  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 120 ms
++  432 ms | Key: F10          | VK: 121 | Scan: 68  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++  712 ms | Key: F11          | VK: 122 | Scan: 87  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++ 1400 ms | Key: F12          | VK: 123 | Scan: 88  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 120 ms
+
++ 7856 ms | Key: D1           | VK: 49  | Scan: 2   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 56 ms
++  480 ms | Key: D2           | VK: 50  | Scan: 3   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++  664 ms | Key: D3           | VK: 51  | Scan: 4   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++ 1008 ms | Key: D4           | VK: 52  | Scan: 5   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++  480 ms | Key: D5           | VK: 53  | Scan: 6   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  448 ms | Key: D6           | VK: 54  | Scan: 7   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++  392 ms | Key: D7           | VK: 55  | Scan: 8   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++  392 ms | Key: D8           | VK: 56  | Scan: 9   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++  376 ms | Key: D9           | VK: 57  | Scan: 10  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  392 ms | Key: D0           | VK: 48  | Scan: 11  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 64 ms
++  416 ms | Key: OemMinus     | VK: 189 | Scan: 12  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++ 1632 ms | Key: Oemplus      | VK: 187 | Scan: 13  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++ 1360 ms | Key: Back         | VK: 8   | Scan: 14  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++ 1048 ms | Key: Oemtilde     | VK: 192 | Scan: 41  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++ 1424 ms | Key: Tab          | VK: 9   | Scan: 15  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++ 1664 ms | Key: Q            | VK: 81  | Scan: 16  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  456 ms | Key: W            | VK: 87  | Scan: 17  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  480 ms | Key: E            | VK: 69  | Scan: 18  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  448 ms | Key: R            | VK: 82  | Scan: 19  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  464 ms | Key: T            | VK: 84  | Scan: 20  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  424 ms | Key: Y            | VK: 89  | Scan: 21  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  448 ms | Key: U            | VK: 85  | Scan: 22  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  472 ms | Key: I            | VK: 73  | Scan: 23  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++  504 ms | Key: O            | VK: 79  | Scan: 24  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  464 ms | Key: P            | VK: 80  | Scan: 25  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  456 ms | Key: OemOpenBrackets | VK: 219 | Scan: 26  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++ 1920 ms | Key: Oem6         | VK: 221 | Scan: 27  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++ 1768 ms | Key: Return       | VK: 13  | Scan: 28  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++ 4256 ms | Key: Capital      | VK: 20  | Scan: 58  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  976 ms | Key: A            | VK: 65  | Scan: 30  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 128 ms
++ 2832 ms | Key: S            | VK: 83  | Scan: 31  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++  320 ms | Key: D            | VK: 68  | Scan: 32  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  808 ms | Key: F            | VK: 70  | Scan: 33  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++  408 ms | Key: G            | VK: 71  | Scan: 34  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  416 ms | Key: H            | VK: 72  | Scan: 35  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  400 ms | Key: J            | VK: 74  | Scan: 36  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  456 ms | Key: K            | VK: 75  | Scan: 37  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  448 ms | Key: L            | VK: 76  | Scan: 38  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  440 ms | Key: Oem1         | VK: 186 | Scan: 39  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  656 ms | Key: Oem7         | VK: 222 | Scan: 40  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  968 ms | Key: Oem5         | VK: 220 | Scan: 43  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++  888 ms | Key: Return       | VK: 13  | Scan: 28  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++ 5552 ms | Key: LShiftKey    | VK: 160 | Scan: 42  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  600 ms | Key: OemBackslash | VK: 226 | Scan: 86  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  376 ms | Key: Z            | VK: 90  | Scan: 44  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  416 ms | Key: X            | VK: 88  | Scan: 45  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  432 ms | Key: C            | VK: 67  | Scan: 46  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  376 ms | Key: V            | VK: 86  | Scan: 47  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  400 ms | Key: B            | VK: 66  | Scan: 48  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  400 ms | Key: N            | VK: 78  | Scan: 49  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  400 ms | Key: M            | VK: 77  | Scan: 50  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  400 ms | Key: Oemcomma     | VK: 188 | Scan: 51  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  640 ms | Key: OemPeriod    | VK: 190 | Scan: 52  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  416 ms | Key: OemQuestion  | VK: 191 | Scan: 53  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  784 ms | Key: RShiftKey    | VK: 161 | Scan: 54  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++ 1328 ms | Key: LControlKey  | VK: 162 | Scan: 29  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  432 ms | Key: LWin         | VK: 91  | Scan: 91  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  960 ms | Key: LWin         | VK: 91  | Scan: 91  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  648 ms | Key: LMenu        | VK: 164 | Scan: 56  | Ext: 0 | Alt: 1 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  528 ms | Key: Space        | VK: 32  | Scan: 57  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++ 1136 ms | Key: RMenu        | VK: 165 | Scan: 56  | Ext: 1 | Alt: 1 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++ 1104 ms | Key: Apps         | VK: 93  | Scan: 93  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++ 1040 ms | Key: RControlKey  | VK: 163 | Scan: 29  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 128 ms
++ 3536 ms | Key: Left         | VK: 37  | Scan: 75  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++  328 ms | Key: Down         | VK: 40  | Scan: 80  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++  336 ms | Key: Right        | VK: 39  | Scan: 77  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 144 ms
++  320 ms | Key: Up           | VK: 38  | Scan: 72  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++ 2368 ms | Key: PrintScreen  | VK: 44  | Scan: 55  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++ 1248 ms | Key: Escape       | VK: 27  | Scan: 1   | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 144 ms
++ 1576 ms | Key: Scroll       | VK: 145 | Scan: 70  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  920 ms | Key: Pause        | VK: 19  | Scan: 69  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++ 6472 ms | Key: Return       | VK: 13  | Scan: 28  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++ 1736 ms | Key: Insert       | VK: 45  | Scan: 82  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 120 ms
++  408 ms | Key: Home         | VK: 36  | Scan: 71  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 128 ms
++  384 ms | Key: PageUp       | VK: 33  | Scan: 73  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 144 ms
++  528 ms | Key: Delete       | VK: 46  | Scan: 83  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 136 ms
++  336 ms | Key: End          | VK: 35  | Scan: 79  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 144 ms
++  320 ms | Key: Next         | VK: 34  | Scan: 81  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 128 ms
++ 1832 ms | Key: NumLock      | VK: 144 | Scan: 69  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 80 ms
++ 1120 ms | Key: Divide       | VK: 111 | Scan: 53  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  464 ms | Key: Multiply     | VK: 106 | Scan: 55  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++  536 ms | Key: Subtract     | VK: 109 | Scan: 74  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++ 3496 ms | Key: NumPad7      | VK: 103 | Scan: 71  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  528 ms | Key: NumPad8      | VK: 104 | Scan: 72  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  512 ms | Key: NumPad9      | VK: 105 | Scan: 73  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++ 1040 ms | Key: Add          | VK: 107 | Scan: 78  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 112 ms
++ 1056 ms | Key: NumPad4      | VK: 100 | Scan: 75  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 72 ms
++  368 ms | Key: NumPad5      | VK: 101 | Scan: 76  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  344 ms | Key: NumPad6      | VK: 102 | Scan: 77  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  728 ms | Key: NumPad1      | VK: 97  | Scan: 79  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 96 ms
++  296 ms | Key: NumPad2      | VK: 98  | Scan: 80  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  272 ms | Key: NumPad3      | VK: 99  | Scan: 81  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  880 ms | Key: NumPad0      | VK: 96  | Scan: 82  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
++  384 ms | Key: Decimal      | VK: 110 | Scan: 83  | Ext: 0 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 104 ms
++  416 ms | Key: Return       | VK: 13  | Scan: 28  | Ext: 1 | Alt: 0 | Extra: 0x0 | Src: PHYSICAL | Held: 88 ms
